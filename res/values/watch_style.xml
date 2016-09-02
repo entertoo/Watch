@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="Watch">
+        <attr name="cycleWidth" format="dimension" />
+        <attr name="watchRadius" format="dimension" />
+        <attr name="secondLength" format="dimension" />
+        <attr name="minuteLength" format="dimension" />
+        <attr name="hourLength" format="dimension" />
+    </declare-styleable>
+
+</resources>
